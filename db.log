@@ -1,0 +1,13 @@
+
+> js-testing-workshop@1.0.0 json-server /home/joanrufe/Proyectos/js-testing-workshop
+> json-mock db.json
+
+{^_^} Hi!
+
+Loading database from db.json
+  http://localhost:3000/users
+
+You can now go to http://localhost:3000/
+
+Enter `s` at any time to create a snapshot of the db
+
