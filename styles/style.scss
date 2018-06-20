@@ -1,1 +1,9 @@
-@import '../node_modules/grd-sass/grd.scss'
+.widget-container {
+  max-width: calc(100vw - 7.5em);
+  margin: auto;
+}
+
+.user{
+  display: inline-block;
+  padding: 10px 5px;
+}
